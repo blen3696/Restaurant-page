@@ -115,6 +115,7 @@ body {
     padding: 7px 20px;
     text-align: center;
     display: inline-block;
+    transition: .5s;
     
     
 }
@@ -224,6 +225,7 @@ body {
     display: inline-block;
     text-align: center;
     background-color:black;
+    transition: .5s;
 }
 .link a:hover {
     background-color: #4cb419;
@@ -314,6 +316,7 @@ body {
     text-align: center;
     background-color: white;
     margin: auto;
+    transition: .5s;
 }
 .no11 a:hover {
     background-color: #4cb419;
